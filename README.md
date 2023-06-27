@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/raphaelrighetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrighetti&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrighetti&hide=shaderlab&layout=compact">
 </div>
 
 <div style="display: inline_block"><br>
